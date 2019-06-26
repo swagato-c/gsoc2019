@@ -15,7 +15,7 @@ Mentors: [Peter Bell](https://uni-erlangen.academia.edu/PeterBell), [Leonardo Im
 
 The goal of the project is to build an iconographic feature recognizer. The current methodology as suggested by Leo will be to perform Image Captioning based on [Iconclass](http://iconclass.org) codes. The current testing dataset is provided by [Rijksbureau voor Kunsthistorische Documentatie (RKD)](http://rkd.nl) based on paintings from Biblical scenes from the New Testament. The development will be done on Jupyter Notebooks and then the notebooks will be converted to the expected scripts for the use in the Red Hen HPC pipeline.
 
-### Goals
+## Goals
 *Weeks 1 - 4*
 - [x] Study the problem well
 - [x] Implement GradCAM, GradCAM++
