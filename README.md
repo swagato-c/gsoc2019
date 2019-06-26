@@ -4,7 +4,7 @@
 ## Project: Feature extraction in works of art
 
 
-###Timeline
+### Timeline
 [] _Week 1_
 [] _Week 2_
 [] _Week 3_
