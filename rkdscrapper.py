@@ -63,5 +63,9 @@ pgb = progress_bar(range(nums))
 tasks = [get_info(i).then(extract).then(download_images).result() for i in pgb]
 df = pd.DataFrame(
     data, columns=["Iconclass", "Text", "Download-Hash", "Permalink", "Id"])
+<<<<<<< Updated upstream
 df.to_csv("rkd_keys.csv")
 
+=======
+df.to_csv("rkd_keys.csv")
+>>>>>>> Stashed changes
