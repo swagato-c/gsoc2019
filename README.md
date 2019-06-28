@@ -13,7 +13,7 @@ This is the github repo for my [Google Summer of Code 2019](https://summerofcode
 ## Project Description
 Mentors: [Peter Bell](https://uni-erlangen.academia.edu/PeterBell), [Leonardo Impett](http://www.biblhertz.it/en/institute/staff/staffdatabase/staff-details/ma-leonardo-impett/).
 
-The goal of the project is to build an iconographic feature recognizer. The current methodology as suggested by Leo will be to perform Image Captioning based on [Iconclass](http://iconclass.org) codes. The current testing dataset is provided by [Rijksbureau voor Kunsthistorische Documentatie (RKD)](http://rkd.nl) based on paintings from Biblical scenes from the New Testament. The development will be done on Jupyter Notebooks and then the notebooks will be converted to the expected scripts for the use in the Red Hen HPC pipeline.
+The goal of the project is to build an iconographic feature recognizer. The current methodology as suggested by Leo will be to perform Image Captioning based on [Iconclass](http://iconclass.org) codes. The current testing dataset is provided by [Rijksbureau voor Kunsthistorische Documentatie (RKD)](http://rkd.nl) based on paintings from Biblical scenes of the New Testament. The development will be done on Jupyter Notebooks and then the notebooks will be converted to the expected scripts for the use in the Red Hen HPC pipeline.
 
 ## Goals
 *Weeks 1 - 4*
