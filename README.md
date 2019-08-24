@@ -32,7 +32,7 @@ The goal of the project is to build an iconographic feature recognizer. The curr
 - [x] Write the Server and the CAM scripts
 - [x] Write HTML + CSS + JS frontend 
 - [x] Write Dockerfile and containerize 
-- [ ] Deploy container in the cloud
+- [x] Deploy container in the cloud
 
 ## Tools/Libraries
 - [Unsync](https://pypi.org/project/unsync/)
